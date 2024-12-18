@@ -10,4 +10,14 @@ I am class of 2027.
 Astrocats
 https://github.com/RubyJacobsen/gamedev1a1portfolio
 ![alt text](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/images/SpaceshipRJ.png)
+![alt text](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/images/IdleCatRJ.png)
+![alt text](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/images/HealthBarRJ.png)
+![alt text](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/images/GameOverRJ.png)
+![alt text](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/images/exppixelRJ.png)
+![alt text](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/images/graymouseRJ.png)
+![alt text](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/images/tunainspaceRJ.png)
+![alt text](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/images/yarnballRJ.png)
+![alt text](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/images/catnipRJ.png)
+![alt text](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/images/blackholeRJ.png)
+![alt text](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/images/cucumberRJ.png)
 Graphics and storyline

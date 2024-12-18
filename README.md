@@ -5,7 +5,12 @@ I like music,
 I like art,
 I am class of 2027.
 ## Term 1 Projects
-
+[
+](https://github.com/RubyJacobsen/gamedev1a1portfolio/blob/main/src/ShapeGame.pde.zip)
+Basic shape game.
+[
+](https://github.com/RubyJacobsen/gamedev1a1portfolio/blob/main/Cars.zip)
+Basic car game.
 ## Term 2 Projects
 Astrocats
 https://github.com/RubyJacobsen/gamedev1a1portfolio
